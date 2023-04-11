@@ -1,6 +1,6 @@
 # Bin_packing
 
-![Alt text](https://github.com/atasbh/resource_constraints/blob/main/VRPTW_Hapag-Lloyd%20AG-1.png)
+![Alt text](https://github.com/atasbh/Bin_packing/blob/main/banner.png)
 
 The bin packing problem involves packing items into bins. However, the bin packing problem has a different objective: find the fewest bins that will hold all the items.
 
